@@ -1,3 +1,4 @@
-from lanzador import main
+from lanzador import iniciar_pygame
+
 if __name__ == "__main__":
-    main()
+    iniciar_pygame()
